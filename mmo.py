@@ -77,7 +77,7 @@ class Action:
             time.sleep(30)
 
 test = Action()
-test.gathering(9)
+test.fight()
 
 
 
